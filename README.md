@@ -1,3 +1,9 @@
+This project is a simple todo app with following functionalities:-
+
+1. CRUD and toggle status of todos
+2. CRUD and toggle status of tasks in each todos
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
